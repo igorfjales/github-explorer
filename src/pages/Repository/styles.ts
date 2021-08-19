@@ -58,6 +58,8 @@ export const RepositoryInfo = styled.section`
     margin-top: 40px;
 
     li {
+      text-align: center;
+
       & + li {
         margin-left: 80px;
       }
