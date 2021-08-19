@@ -54,6 +54,9 @@
     "tsconfig.json": "tune"
   },
   "cSpell.words": [
-    "Roboto"
+    "Roboto",
+    "camelcase",
+    "igorfjales",
+    "repos"
   ]
 }
