@@ -17,8 +17,36 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Permite encontrar repositórios de forma bonita e inutuitiva, exibindo informações como: contagem de stars, contagem de forks, contagem e listagem de issues, podendo consultar determinado issue diretamente no Github.
 
+## 🎯 Objetivo
+
+Projeto feito apenas para praticar (estudo).
+
 <br>
 
 ## Telas da Aplicação: 
 
 <img src="src/assets/projeto.gif">
+
+<br>
+
+## Tela Inicial:
+
+<br>
+
+<img src="src/assets/Tela_inicialpng.png">
+
+## Tela de detalhes do repositório:
+
+<br>
+
+<img src="src/assets/detalhes.png">
+
+<br>
+
+## Tratamento de Erros:
+
+<img src="src/assets/teste_inexistente.png">
+
+<br>
+
+<img src="src/assets/teste_vazio.png">
